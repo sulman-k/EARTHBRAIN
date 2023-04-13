@@ -1,0 +1,28 @@
+.material-list-container {
+    background-color: #131933;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 12px;
+
+    padding-left: 25px;
+
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+
+.material-list-items{
+    text-decoration: none;
+}
+
+.material-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.material-list li {
+    margin-bottom: 10px;
+}

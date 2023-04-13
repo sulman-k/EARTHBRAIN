@@ -1,0 +1,8 @@
+.single-material {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.material-name {
+    font-weight: bold;
+}

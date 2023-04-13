@@ -1,0 +1,26 @@
+/* MaterialList styles */
+
+.MaterialList-container {
+    background-color: #131933;
+    color: #ccc;
+
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+    width: 550px;
+
+
+}
+
+.form-control {
+    width: fit-content;
+}
+
+
+span {
+    font-size: 16px;
+    font-weight: 600;
+    color: #ccc;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
